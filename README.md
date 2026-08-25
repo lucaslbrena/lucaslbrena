@@ -65,6 +65,7 @@ Uso ferramentas de IA generativa (**Claude Code**) no dia a dia de desenvolvimen
 
 ### 📌 Projetos em destaque
 
+- **E-commerce — Dental Solident** — plataforma de e-commerce voltada a clientes externos, com APIs REST em Nest.js/Express.js integradas ao ERP e ao sistema interno de gestão, centralizando o fluxo de dados entre clientes e equipe. Front-end em React.js/Next.js e Vue.js. *(projeto corporativo, código privado)*
 - **[Controle de Serviços (Carro/Moto)](https://github.com/lucasbrena/servicos)** — app de manutenção de veículos com frontend em GitHub Pages, backend em Cloudflare Worker e Neon Postgres.
 - **Dashboard Financeiro em Power BI** — modelagem em star schema, medidas DAX (YoY, QoQ, KPIs) e Power Query para consolidar fundamentos financeiros e dados de portfólio pessoal.
 - **Ferramentas de Análise de Investimentos** — dashboards interativos de dividendos/renda com Python e Power BI.
