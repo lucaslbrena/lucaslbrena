@@ -65,7 +65,7 @@ Uso ferramentas de IA generativa (**Claude Code**) no dia a dia de desenvolvimen
 
 ### 📌 Projetos em destaque
 
-- **Brena Tech Insights** — plataforma de publicações técnicas focada em engenharia de software e arquitetura. Desenvolvida *from scratch* com Next.js (App Router), TypeScript e conteinerização em Docker (Multi-Stage Builds). O back-end foi otimizado para ambientes *serverless* na Vercel, integrando PostgreSQL na cloud (Neon) com Drizzle ORM e implementação de autenticação *stateless* (JWT) via Edge Middleware.
+- **Brena Tech Insights — plataforma de publicações técnicas focada em engenharia de software e arquitetura. Desenvolvida from scratch com Next.js (App Router) e TypeScript, a aplicação conta com um ambiente administrativo completo para gerenciamento de conteúdo (CRUD de posts). O back-end foi otimizado para ambientes serverless na Vercel, integrando PostgreSQL na cloud (Neon) com Drizzle ORM e implementação de autenticação stateless (JWT) via Edge Middleware.
 - **E-commerce — Dental Solident** — plataforma de e-commerce voltada a clientes externos, integrada ao ERP e ao sistema interno de gestão para centralizar o fluxo de dados entre clientes e equipe. Desenvolvida com front-end em **Vue.js**, APIs REST em **Node.js** com **Express.js** e banco de dados **MySQL**. *(projeto corporativo, código privado)*
 - **[Controle de Serviços (Carro/Moto)](https://github.com/lucasbrena/servicos)** — app de manutenção de veículos com frontend em GitHub Pages, backend em Cloudflare Worker e Neon Postgres.
 - **Dashboard Financeiro em Power BI** — modelagem em star schema, medidas DAX (YoY, QoQ, KPIs) e Power Query para consolidar fundamentos financeiros e dados de portfólio pessoal.
